@@ -6,8 +6,5 @@
       "start": "node app.js"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "license": "ISC"
 }
